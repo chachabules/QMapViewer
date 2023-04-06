@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="taskplan.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.5208333"
+     inkscape:cx="-27.696822"
+     inkscape:cy="16.371638"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 35.413935,4.4561248 H 28.590033 C 27.921501,2.564672 26.127883,1.195 23.999999,1.195 c -2.127883,0 -3.921502,1.369672 -4.590033,3.2611248 h -6.823903 c -1.801772,0 -3.261124,1.4593524 -3.261124,3.2611249 V 30.545122 c 0,1.801771 1.459352,3.261125 3.261124,3.261125 h 22.827872 c 1.801773,0 3.261126,-1.459354 3.261126,-3.261125 V 7.7172497 c 0,-1.8017725 -1.459353,-3.2611249 -3.261126,-3.2611249 z m -11.413934,0 c 0.896809,0 1.630562,0.7256002 1.630562,1.6305624 0,0.9049622 -0.733753,1.6305625 -1.630562,1.6305625 -0.896812,0 -1.630563,-0.7256003 -1.630563,-1.6305625 0,-0.9049622 0.733751,-1.6305624 1.630563,-1.6305624 z M 27.261125,27.283997 H 15.847187 V 24.022873 H 27.261125 Z M 32.15281,20.761748 H 15.847187 V 17.500623 H 32.15281 Z m 0,-6.52225 H 15.847187 V 10.978375 H 32.15281 Z"
+     id="path2"
+     style="stroke-width:0.815281" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.927007;fill:#000000;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="0.38085938"
+     y="45.300732"
+     id="text345"><tspan
+       sodipodi:role="line"
+       id="tspan343"
+       x="0.38085938"
+       y="45.300732">任务规划</tspan></text>
+</svg>

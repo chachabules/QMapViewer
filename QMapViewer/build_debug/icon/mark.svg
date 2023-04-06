@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="mark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.025139"
+     inkscape:cx="48.795554"
+     inkscape:cy="22.489108"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2" /><g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       d="M 24,2 C 18.21,2 13.5,6.71 13.5,12.5 13.5,20.375 24,32 24,32 24,32 34.5,20.375 34.5,12.5 34.5,6.71 29.79,2 24,2 Z m 6,12 h -4.5 v 4.5 h -3 V 14 H 18 v -3 h 4.5 V 6.5 h 3 V 11 H 30 Z"
+       id="path134"
+       style="stroke-width:0.75" /><text
+       xml:space="preserve"
+       style="font-size:12px;opacity:0.927007;fill:#000000;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="12.018375"
+       y="44.505337"
+       id="text359"><tspan
+         sodipodi:role="line"
+         id="tspan357"
+         x="12.018375"
+         y="44.505337">标记</tspan></text></g></svg>

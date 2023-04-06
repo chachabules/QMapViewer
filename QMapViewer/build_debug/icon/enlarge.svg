@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="enlarge.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.2604167"
+     inkscape:cx="-32.273839"
+     inkscape:cy="8.5672372"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <path
+     d="M 31.313684,23.459612 H 29.950048 L 29.47835,22.987913 c 1.68096,-1.946826 2.692967,-4.476843 2.692967,-7.246998 0,-6.1578044 -4.991423,-11.149228 -11.149228,-11.149228 -6.157804,0 -11.1492284,4.9914236 -11.1492284,11.149228 0,6.157805 4.9914244,11.149228 11.1492284,11.149228 2.770155,0 5.300172,-1.012007 7.246998,-2.684391 l 0.471698,0.471699 v 1.35506 l 8.576329,8.559176 2.555747,-2.555746 z m -10.291595,0 c -4.262435,0 -7.718696,-3.456261 -7.718696,-7.718697 0,-4.262435 3.456261,-7.7186963 7.718696,-7.7186963 4.262436,0 7.718696,3.4562613 7.718696,7.7186963 0,4.262436 -3.45626,7.718697 -7.718696,7.718697 z"
+     id="path2"
+     style="stroke-width:0.857633" />
+  <rect
+     style="opacity:0.927007;fill:#000000;stroke-width:1.15658;stroke-linejoin:round;paint-order:stroke fill markers"
+     id="rect899"
+     width="14.02445"
+     height="1.8777506"
+     x="14.083131"
+     y="14.845967" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.927007;fill:#000000;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="11.017688"
+     y="44.709827"
+     id="text955"><tspan
+       sodipodi:role="line"
+       id="tspan953"
+       x="11.017688"
+       y="44.709827">放大</tspan></text>
+  <rect
+     style="opacity:0.927007;fill:#000000;stroke-width:1.15658;stroke-linejoin:round;paint-order:stroke fill markers"
+     id="rect899-2"
+     width="14.02445"
+     height="1.8777506"
+     x="8.7726173"
+     y="-22.034231"
+     transform="rotate(90)" />
+</svg>

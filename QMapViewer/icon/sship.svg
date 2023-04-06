@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg498"
+   sodipodi:docname="sship.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs502" />
+  <sodipodi:namedview
+     id="namedview500"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="3.0125695"
+     inkscape:cx="-87.466862"
+     inkscape:cy="39.003249"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg498" />
+  <path
+     d="M0 0h48v48H0z"
+     fill="none"
+     id="path494" />
+  <path
+     id="path496"
+     style="stroke-width:0.685263"
+     d="m 24,0.798 c -0.110568,-1e-8 -3.478762,1.8719232 -4.027344,2.2285156 h -0.08398 v 0.064453 4.046875 h -4.111328 c -1.514431,0 -2.742188,1.2258039 -2.742188,2.7402344 v 6.332031 l -1.759765,0.576172 c -0.356337,0.109642 -0.65095,0.348809 -0.822266,0.677734 -0.171316,0.328927 -0.20048,0.713016 -0.08398,1.0625 l 2.591797,9.167969 h 0.07422 c 2.192841,0 4.146159,-1.205246 5.482422,-2.740234 1.336262,1.534988 3.289581,2.740234 5.482422,2.740234 2.192841,0 4.146159,-1.205246 5.482422,-2.740234 1.343115,1.534988 3.282729,2.740234 5.482422,2.740234 h 0.07422 l 2.597657,-9.160156 c 0.116495,-0.349484 0.08243,-0.733574 -0.08203,-1.0625 -0.171316,-0.328926 -0.465929,-0.576898 -0.822266,-0.679687 L 34.964844,16.210109 V 9.8780781 c 0,-1.5144305 -1.227757,-2.7402344 -2.742188,-2.7402344 h -4.111328 v -4.046875 -0.064453 h -0.08398 C 27.478762,2.6699232 24.110568,0.798 24,0.798 Z M 15.777344,9.8780781 H 32.222656 V 15.313625 L 24,12.620265 l -8.222656,2.69336 z m 2.740234,18.7421869 c -1.672041,1.1718 -3.577392,1.816407 -5.482422,1.816407 h -2.740234 v 2.740234 h 2.740234 c 1.884472,0 3.75556,-0.47244 5.482422,-1.363281 3.453724,1.77483 7.511119,1.77483 10.964844,0 1.726862,0.883989 3.59795,1.363281 5.482422,1.363281 h 2.740234 v -2.740234 h -2.740234 c -1.90503,0 -3.810381,-0.644607 -5.482422,-1.816407 -3.344082,2.343599 -7.620762,2.343599 -10.964844,0 z" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.927007;fill:#000000;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="11.970738"
+     y="44.483109"
+     id="text623"><tspan
+       sodipodi:role="line"
+       id="tspan621"
+       x="11.970738"
+       y="44.483109"
+       style="stroke-width:1.5">子船</tspan></text>
+</svg>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg498"
+   sodipodi:docname="mship.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs502" />
+  <sodipodi:namedview
+     id="namedview500"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.5208333"
+     inkscape:cx="5.6332518"
+     inkscape:cy="23.530562"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg498" />
+  <path
+     d="M0 0h48v48H0z"
+     fill="none"
+     id="path494" />
+  <path
+     d="m 34.964103,29.636535 c -1.905032,0 -3.810064,-0.644147 -5.482107,-1.815948 -3.344085,2.343601 -7.620129,2.343601 -10.964214,0 -1.672043,1.171801 -3.577076,1.815948 -5.482108,1.815948 h -2.741053 v 2.741054 h 2.741053 c 1.884474,0 3.755244,-0.472832 5.482108,-1.363674 3.453727,1.774832 7.510486,1.774832 10.964214,0 1.726864,0.88399 3.597633,1.363674 5.482107,1.363674 h 2.741054 V 29.636535 Z M 12.960295,26.895482 h 0.07538 c 2.192843,0 4.145844,-1.206064 5.482108,-2.741054 1.336263,1.53499 3.289264,2.741054 5.482107,2.741054 2.192843,0 4.145843,-1.206064 5.482107,-2.741054 1.343116,1.53499 3.282412,2.741054 5.482107,2.741054 h 0.07538 l 2.597148,-9.161972 c 0.116495,-0.349484 0.08223,-0.733232 -0.08223,-1.062158 -0.171316,-0.328926 -0.465979,-0.575621 -0.822316,-0.678411 l -1.76798,-0.582474 V 9.078634 c 0,-1.514432 -1.226621,-2.741054 -2.741053,-2.741054 H 28.111472 V 2.226 H 19.88831 v 4.11158 h -4.111582 c -1.514432,0 -2.741054,1.226622 -2.741054,2.741054 v 6.331833 l -1.761127,0.575622 c -0.356337,0.109642 -0.651,0.349484 -0.822316,0.67841 -0.171316,0.328927 -0.198726,0.712674 -0.08223,1.062159 z M 15.776728,9.078634 H 32.22305 v 5.434138 l -8.223161,-2.693085 -8.223161,2.693085 z"
+     id="path496"
+     style="stroke-width:0.685263" />
+  <text
+     xml:space="preserve"
+     style="font-size:12px;opacity:0.927007;fill:#000000;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+     x="11.970738"
+     y="44.483109"
+     id="text623"><tspan
+       sodipodi:role="line"
+       id="tspan621"
+       x="11.970738"
+       y="44.483109"
+       style="stroke-width:1.5">母船</tspan></text>
+</svg>

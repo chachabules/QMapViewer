@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/stylesheet">
+        <file>dark_stylesheet.qss</file>
+        <file>darkstyle.qss</file>
+        <file>lightstyle.qss</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>../icon/addmap.svg</file>
+        <file>../icon/close.svg</file>
+        <file>../icon/enlarge.svg</file>
+        <file>../icon/lessen.svg</file>
+        <file>../icon/mark.svg</file>
+        <file>../icon/measure.svg</file>
+        <file>../icon/mship.svg</file>
+        <file>../icon/setting.svg</file>
+        <file>../icon/taskplan.svg</file>
+        <file>../icon/sship.svg</file>
+        <file>../icon/MapManager.svg</file>
+    </qresource>
+</RCC>

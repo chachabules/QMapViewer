@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="measure.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="6.025139"
+     inkscape:cx="40.579976"
+     inkscape:cy="29.127959"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" /><defs
+     id="defs2" /><g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1"><path
+       id="path134"
+       d="m 2.058594,11.0625 v 11.701172 c 0,2.080315 1.790002,3.763672 4,3.763672 h 36 c 2.209997,0 4,-1.683357 4,-3.763672 V 11.0625 h -4 v 11.701172 h -4 v -7.53125 h -4 v 7.53125 h -4 v -7.53125 h -4 v 7.53125 h -4 v -7.53125 h -4 v 7.53125 h -4 v -7.53125 h -4 v 7.53125 h -4 V 11.0625 Z"
+       style="stroke-width:0.970217" /><text
+       xml:space="preserve"
+       style="font-size:12px;opacity:0.927007;fill:#000000;stroke-width:1.5;stroke-linejoin:round;paint-order:stroke fill markers"
+       x="12.447846"
+       y="39.733891"
+       id="text975"><tspan
+         sodipodi:role="line"
+         id="tspan973"
+         x="12.447846"
+         y="39.733891"
+         style="font-size:12px">测量</tspan></text></g></svg>
